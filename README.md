@@ -4,7 +4,7 @@
 
 I started studying programming in a self-taught way and in 2022 I decided to start SoyHenry's Full Stack Web Developer bootcamp. I learned a lot, but what I take most from this experience is the quality of people I met and I was lucky enough to share the project.
 
-### What I know
+### 🔭 What I know
 - HTML
 - CSS
 - Javascript
@@ -21,7 +21,7 @@ I started studying programming in a self-taught way and in 2022 I decided to sta
 ## My Projects
 
 ### Full Stack Web Developer | [Davo Shoes](https://henry-final-project.vercel.app) (E-commerce)
-#### Collaborators
+#### ✨ Collaborators
 - [@Nikl4auss](https://github.com/Nikl4auss)
 - [@gabrielweht](https://github.com/gabrielweht) 
 - [@Iverges](https://github.com/lrverges) 
@@ -33,7 +33,12 @@ I started studying programming in a self-taught way and in 2022 I decided to sta
 Davo Shoes is an E-commerce for the sale of sneakers whose functionalities are: search, filters, detail of sneakers, create a new one, add to the cart and buy through the payment gateway of the payment market, authentication, pagination and footer.
 
 #### My Role
+I started by running some routes on the back end and then on the front end. I made the pagination, the footer, the intermediate page between the cart and the payment gateway, I worked on the payment gateway. I was also with the styles (CSS) of the page.
 
+
+#### ⚡ Contact
+E-mail: estefibologna@gmail.com
+Linkedin: https://www.linkedin.com/in/estefaniabologna/
 
 <!--
 **Estefi24/Estefi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
