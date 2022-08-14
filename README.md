@@ -38,6 +38,7 @@ I started by running some routes on the back end and then on the front end. I ma
 
 #### ⚡ Contact
 E-mail: estefibologna@gmail.com
+
 Linkedin: https://www.linkedin.com/in/estefaniabologna/
 
 <!--
