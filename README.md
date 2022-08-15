@@ -13,6 +13,7 @@ I started studying programming in a self-taught way and in 2022 I decided to sta
 - Redux.js
 - Node.js
 - Express
+- PostgreSQL
 - SQL
 - Sequelize
 - Auth0
