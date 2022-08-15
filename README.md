@@ -17,8 +17,8 @@ I started studying programming in a self-taught way and in 2022 I decided to sta
 - Sequelize
 - Auth0
 - GitHub
--GitFlow
--Scrum
+- GitFlow
+- Scrum
 
 
 ## My Projects
