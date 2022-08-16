@@ -20,6 +20,8 @@ I started studying programming in a self-taught way and in 2022 I decided to sta
 - GitHub
 - GitFlow
 - Scrum
+- TypeScript
+- React Native
 
 
 ## My Projects
